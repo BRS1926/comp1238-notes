@@ -13,3 +13,5 @@ GitHub Username: BRS1926
 - Git and GitHub
 - Data Management
 - GitHub Pages
+
+- [COMP 1238 Notes](comp1238.md)
